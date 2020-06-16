@@ -32,7 +32,7 @@ Esse desafio exige que o desenvolvedor que o implementa siga estas restrições:
 - As matrizes não podem ser usadas contêm os dígitos binários inseridos pelo usuário
 - A determinação do equivalente decimal de um dígito binário específico na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Cabe a você descobrir qual função usar.
 
-### Histórias de usuários
+### Ações de usuários
 
 - [x] ~O usuário pode inserir até 8 dígitos binários em um campo de entrada~
 - [x] ~O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido~
