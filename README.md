@@ -1,7 +1,7 @@
 # Bin2Dec
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/IdIu67uIjNymjunzcI/giphy.gif">
+  <img src="https://media.giphy.com/media/IdIu67uIjNymjunzcI/giphy.gif" width="85%">
 </h1>
 
 ## 🚀 Indice
