@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 
-// import { Container } from './styles';
-
 function Form(props) {
   const [binario, setBinario] = useState("");
 
@@ -13,8 +11,8 @@ function Form(props) {
         placeholder="Digite o número Binário"
         value={binario}
         onChange={(e) => setBinario(e.target.value)}
-        pattern="^[01]+$"
-        title="Somente 0 e 1"
+        pattern="^[01]+$" // Regex para validar se é apenas 0 e 1
+        title="Somente 0 e 1" // mensagem caso esteja errado
       />
 
       <button className="button" type="submit">

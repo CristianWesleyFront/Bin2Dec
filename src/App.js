@@ -2,12 +2,15 @@ import React, { useState } from "react";
 
 import "./App.css";
 
+// Chamada de componentes
 import Card from "./components/Card";
 import Form from "./components/Form";
 
 function App() {
+  // Criação do estado de resultado
   const [result, setResult] = useState("");
 
+  // Criação da função para converter binário para decimal
   const binaryToDecimal = (bin) => {
     const numberBin = bin.split("").map(Number).reverse();
 
@@ -17,6 +20,7 @@ function App() {
   const handleSubmit = (e, binary) => {
     e.preventDefault();
 
+    // Armazenando a resposta no estado de resultado
     setResult(`Decimal: ${binaryToDecimal(binary)}`);
   };
 
