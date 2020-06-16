@@ -2,6 +2,10 @@
   <img src="./public/logo192.png">
 </h1>
 
+<h1>
+  <img src="./public/projectExemple.png">
+</h1>
+
 # Bin2Dec
 
 ## 🚀 Indice
@@ -9,6 +13,7 @@
 - 📓 [Sobre](#-Sobre)
 - 👨‍💻 [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - 📦 [Como baixar o projeto](#-Como-baixar-o-projeto)
+- 🤝 [Considerações](#-Considerações)
 
 ## 📓 Sobre
 
@@ -86,3 +91,9 @@ Esse desafio exige que o desenvolvedor que o implementa siga estas restrições:
 ```
 
 ---
+
+## 🤝 Considerações
+
+#### Background-image : https://pressstart.vip/assets
+
+#### Ideia do projeto : https://github.com/florinpop17/app-ideas
