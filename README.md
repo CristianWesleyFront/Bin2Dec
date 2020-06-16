@@ -2,8 +2,8 @@
   <img src="./public/logo192.png">
 </h1>
 
-<h1>
-  <img src="https://ik.imagekit.io/lbltaysyoa/ProjectExemple_zz1EDftEz.png">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/IdIu67uIjNymjunzcI/giphy.gif">
 </h1>
 
 # Bin2Dec
