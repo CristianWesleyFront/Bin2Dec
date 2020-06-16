@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="./public/logo192.png">
-</h1>
+# Bin2Dec
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/IdIu67uIjNymjunzcI/giphy.gif">
 </h1>
-
-# Bin2Dec
 
 ## 🚀 Indice
 
